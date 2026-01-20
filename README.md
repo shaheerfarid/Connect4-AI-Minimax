@@ -63,5 +63,3 @@ play_against_ai(do_pruning=True)
 - `main.py`: Project entry point.
 
 ---
-
-_Developed by Shaheer Farid._
